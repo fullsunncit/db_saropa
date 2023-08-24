@@ -1,0 +1,319 @@
+{
+    "member" : [
+        {
+            "id" : 1,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/adi.jpg",
+            "nama" : "Adi Dalsa Putra",
+            "ttl" : "Tanjung Inten, 07 Mei 2002",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 2,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/adib.jpg",
+            "nama" : "Adib Maulana Sundava",
+            "ttl" : "Metro, 17 Mei 2002",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 3,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/ahlun.jpg",
+            "nama" : "Ahlun Nazar Ramadhan",
+            "ttl" : "Purbolinggo, 21 November 2001",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 4,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/akyun.jpg",
+            "nama" : "Akyun Nadia Rahmadani",
+            "ttl" : "Tanjung Tirto, 26 November 2001",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 5,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/ayun.jpg",
+            "nama" : "Alya Prihningtiyas Ghaniayun",
+            "ttl" : "Toto Harjo, 08 Januari 2002",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 6,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/anas.jpg",
+            "nama" : "Anas Lutfiana Rahmawati",
+            "ttl" : "Tulang Bawang, 08 Januari 2002",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 7,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/gondet.jpg",
+            "nama" : "Andi Putra Pratama",
+            "ttl" : "Pati, 01 Agustus 2002",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 8,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/andri.jpg",
+            "nama" : "Andri Wibowo",
+            "ttl" : "Muara Jaya, 21 Februari 2002",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 9,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/pipit.jpg",
+            "nama" : "Anisa Fitri",
+            "ttl" : "Taman Negeri, 03 Mei 2001",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 10,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/fani.jpg",
+            "nama" : "Annisa Lathifani Amiroh",
+            "ttl" : "Toto Harjo, 24 Oktober 2001",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 11,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/anzela.jpg",
+            "nama" : "Anzela Kholifatun Chasanah",
+            "ttl" : "Taman Cari, 09 Agustus 2002",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 12,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/bima.jpg",
+            "nama" : "Bima Arif Saputra",
+            "ttl" : "",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 13,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/rindu.jpg",
+            "nama" : "Devi Setio Rini",
+            "ttl" : "Tanjung Inten, 22 Maret 2002",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 14,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/dzul.jpg",
+            "nama" : "Dzul Fikri Umro",
+            "ttl" : "Taman Fajar, 14 Desember 2001",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 15,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/eli.jpg",
+            "nama" : "Eli Listiantri",
+            "ttl" : "Metro, 15 Mei 2001",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 16,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/emi.jpg",
+            "nama" : "Emi Liana Putri",
+            "ttl" : "Rukti Sediyo, 04 Oktober 2002",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 17,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/fanvir.jpg",
+            "nama" : "Fanny Virda Fadillah",
+            "ttl" : "Bekasi, 15 Juni 2002",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 18,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/uci.jpg",
+            "nama" : "Fauziah Khairuni Putri ",
+            "ttl" : "Taman Cari, 18 November 2001",
+            "ig" : "https://www.instagram.com/15fauziahkrispi18/",
+            "fb" : "",
+            "linkedin" : "https://www.linkedin.com/in/fauziahkhairuni18/"
+        },
+        {
+            "id" : 19,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/fira.jpg",
+            "nama" : "Fira Monica",
+            "ttl" : "Sukadana, 31 Juli 2002",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 20,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/atil.jpg",
+            "nama" : "Galuh Attilargo",
+            "ttl" : "Tanjung Inten, 09 Desember 2001",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 21,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/depi.jpg",
+            "nama" : "Herlyana Devita",
+            "ttl" : "Tanjung Inten, 19 Oktober 2001",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 22,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/indri.jpg",
+            "nama" : "Indri Rufaidah",
+            "ttl" : "Negara Ratu, 26 Januari 2002",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 23,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/toing.jpg",
+            "nama" : "Inggrid Nadilawati",
+            "ttl" : "Metro, 27 November 2001",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 24,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/akbar.jpg",
+            "nama" : "Khoirul Akbar",
+            "ttl" : "Tanjung Kesuma, 21 Februari 2002",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 25,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/laras.jpg",
+            "nama" : "Laras Khinanti",
+            "ttl" : "Toto Projo, 09 Juli 2002",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 26,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/meme.jpg",
+            "nama" : "Maira Mayasari",
+            "ttl" : "Taman Cari, 17 Mei 2002",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 27,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/nindya.jpg",
+            "nama" : "Nindia Zulfa Maharani",
+            "ttl" : "Adi Rejo, 03 Januari 2002",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 28,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/aku.jpg",
+            "nama" : "Nur Rosydatun Nafiah",
+            "ttl" : "Bratasena Adiwarna, 08 April 2002",
+            "ig" : "https://www.instagram.com/onyourrosy/",
+            "fb" : "https://www.facebook.com/nurrosydatun.nafiah",
+            "linkedin" : "https://www.linkedin.com/in/nurrosydatunnafiah/"
+        },
+        {
+            "id" : 29,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/sinta.jpg",
+            "nama" : "Nuraini Sinta Dewi",
+            "ttl" : "Tegal Ombo, 29 Maret 2002",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 30,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/repa.jpg",
+            "nama" : "Refa Apta Ardiansyah",
+            "ttl" : "Toto Harjo, 21 Juli 2002",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 31,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/nana.jpg",
+            "nama" : "Rifa Naufa Hasnah",
+            "ttl" : "Toto Harjo, 16 Januari 2002",
+            "ig" : "https://instagram.com/rfnauf_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 32,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/roni.jpg",
+            "nama" : "Roni Sepriananda",
+            "ttl" : "Bunga Mayang, 11 April 2002",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 33,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/dinok.jpg",
+            "nama" : "Sastika Febri Andini",
+            "ttl" : "Taman Endah, 22 Februari 2002",
+            "ig" : "",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 34,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/tirta.jpg",
+            "nama" : "Tirta Handini Pangestuti",
+            "ttl" : "Taman Bogo, 26 Februari 2002",
+            "ig" : "https://instagram.com/dinpo___?igshid=MzRlODBiNWFlZA==",
+            "fb" : "",
+            "linkedin" : ""
+        },
+        {
+            "id" : 35,
+            "profil" : "https://raw.githubusercontent.com/fullsunncit/member_saropa/main/pio.jpg",
+            "nama" : "Violina Ayu Rasida",
+            "ttl" : "Klaten, 24 Agustus 2002",
+            "ig" : "https://instagram.com/violinayu_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D",
+            "fb" : "",
+            "linkedin" : ""
+        }
+    ]
+}
